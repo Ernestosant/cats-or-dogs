@@ -1,0 +1,10 @@
+torch==2.4.1+cu121
+pillow==10.4.0
+matplotlib==3.7.1
+numpy==1.26.4
+opencv-python==4.10.0.84
+torchvision==0.19.1+cu121
+pandas==2.1.4
+gradio==4.44.0
+ultralytics==8.2.100
+torchvision==0.19.1+cu121
