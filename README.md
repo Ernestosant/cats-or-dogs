@@ -18,6 +18,15 @@ This repository provides a solution to a coding challenge that involves detectin
 - **requirements.txt**: Lists all necessary dependencies.
 - **README.md**: Project overview and instructions.
 
+## Try it on Google Colab
+
+You can run the notebook directly on Google Colab by clicking the link below:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EPnq2HRHx-8MMMiB66ntB29tLxEykC8L?usp=sharing)
+
+This will allow you to try the code without any local setup required.
+
+
 ## 🚀 Installation
 
 1. **Clone the repository:**
